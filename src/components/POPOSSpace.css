@@ -1,4 +1,10 @@
 .space {
-  /* max-width: 50ch;
-  margin-inline: auto; */
+  width: 100%;
+  text-align: center;
+}
+
+.space > img {
+  width: 100%;
+  height: auto;
+  display: block;
 }
